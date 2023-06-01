@@ -1,4 +1,7 @@
 #ignore all .log files
 *.log
+<<<<<<< HEAD
 
 /*.in
+=======
+>>>>>>> 9656d50 (.gitignore)
